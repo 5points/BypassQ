@@ -3,4 +3,4 @@
 host-keyword,anonyome,MySudo
 host-suffix,messaging.service.anonyome.com,MySudo
 host-suffix,api.service.anonyome.com,MySudo
-host-suffix,eventgw.twilio.com,MySudo
+host-suffix,twilio.com,MySudo
