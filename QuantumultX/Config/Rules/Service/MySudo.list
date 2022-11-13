@@ -4,4 +4,4 @@ host-keyword,anonyome,MySudo
 host-suffix,twilio,MySudo
 host-suffix,messaging.service.anonyome.com,MySudo
 host-suffix,api.service.anonyome.com,MySudo
-host-suffix,*.twilio.com,MySudo
+host-suffix,twilio.com,MySudo
